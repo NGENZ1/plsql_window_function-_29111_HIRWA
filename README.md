@@ -38,6 +38,9 @@ The database consists of multiple related tables, including:
 
 Each sale links a customer, a product, and a region, making joins necessary to combine meaningful business information.
 
+![image alt](https://github.com/NGENZ1/plsql_window_function-_29111_HIRWA/blob/main/ASSIGNMENT.jpg)
+
+
 ## JOINS USED
 
 **Inner Join**
