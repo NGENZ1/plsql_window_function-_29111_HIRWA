@@ -221,3 +221,11 @@ This analytical approach transforms raw transactional data into actionable busin
 The use of relational joins enables meaningful data integration, while window functions provide advanced analytical capabilities without losing row-level detail. Together, these techniques empower the business to make data-driven decisions, optimize operations, and improve overall performance.
 
 All sources were properly cited. The implementations and analysis represent original work. No AI-generated content was copied without attribution or adaptation.
+
+![WhatsApp Image 2026-02-08 at 23 55 37](https://github.com/user-attachments/assets/61e58c89-c9cf-492b-8ed0-0c37ca4f1146)
+
+![WhatsApp Image 2026-02-08 at 23 55 37 (2)](https://github.com/user-attachments/assets/b55ce874-a7d6-40fa-8e91-818006338db7)
+
+![WhatsApp Image 2026-02-08 at 23 55 37 (1)](https://github.com/user-attachments/assets/e42e65b9-a7ce-43bc-a914-54748a0186cf)
+
+
